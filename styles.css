@@ -5,7 +5,7 @@
 }
 
 .caixa-superior {
-    background-image: url("./dev.png");
+    background-image: url("./assets/dev.png");
     height: 110vh;
     background-size: cover;
 }
@@ -15,20 +15,23 @@
     padding-left: 35px;
 }
 
-.titulo-cabecalho {
+#refresh {
     font-size: 24px;
     color: #FFFFFF;
     display: inline;
+    margin-right: 10px;
+    cursor: pointer;
 }
 
 .link-cabecalho {
     font-size: 14px;
     color: #FFFFFF;
     display: inline;
-    margin-left: 30px;
+    margin-left: 80px;
     cursor: pointer;
     text-decoration: none;
 }
+
 
 h1 {
     font-size: 58px;
@@ -48,7 +51,6 @@ form {
     margin-right: 50px;
     position: relative;
     bottom: 33px;
-    
 }
 
 .mostrar-formulario {
@@ -96,9 +98,19 @@ button {
     cursor: pointer;
     border: none; 
     border-radius: 5px;
-    background-color: #0af31d;
+    background-color: #00448A;
     color: #FFFFFF;
     font-size: 15px;
+}
+
+button:hover {
+    background-color: #0171e1;
+    transition: .4s;
+    opacity: .8;
+}
+
+button:active {
+    opacity: .5;
 }
 
 #titulo-meio {
@@ -119,11 +131,11 @@ button {
     width: 300px;
     border-radius: 10px;
     background-color: #FFFFFF;
-    border: 1px solid #A9D6FF;
+    border: 1px solid #00385D;
 }
 
 .titulo-card {
-    background-color: #219653;
+    background-color: #00385D;
     color: #FFFFFF;
     text-align: center;
     padding: 20px;
@@ -140,7 +152,7 @@ li {
 }
 
 .caixa-inferior {
-    background-color: #00095d;
+    background-color: #00385D;
 }
 
 #titulo-inferior {

@@ -12,15 +12,15 @@
     <title>Dev Contábil</title>
 </head>
 
-<body>
+<body> 
 
     <div class="caixa-superior">
-        <div class="cabecalho">
-            <h2 class="titulo-cabecalho">Dev Contábil</h2>
+        <header class="cabecalho">
+            <h2 id="refresh">Dev Contábil</h2>
             <a href="#titulo-inferior" class="link-cabecalho">Quem somos</a>
             <a href="#titulo-meio" class="link-cabecalho">Serviços</a>
             <a class="link-cabecalho" onclick="chameoformulario()">Contato</a>
-        </div>
+        </header>
 
         <h1>Dev Contábil</h1>
 
@@ -117,15 +117,7 @@
 
 </body>
 
-<script>
+<script src="./script.js"></script>
 
-let formulario = document.getElementById("formulario-contato")
-
-function chameoformulario(){
-    formulario.className="mostrar-formulario"
-}
-
-
-</script>
 
 </html>
