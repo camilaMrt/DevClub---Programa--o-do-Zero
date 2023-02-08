@@ -4,14 +4,14 @@
 
 <h3>:triangular_flag_on_post: Descrição do projeto</h3>
 
-📌 Esse foi meu primeiro projeto de programação, desenvolvido juntamente ao projeto programação do zero online do <a href="https://github.com/rodolfomori">Rodolfo Mori</a>, onde ele nos ensina sobre html, css e javascript finalizando assim com o site apresentado como resultado.
+:small_blue_diamond: Esse foi meu primeiro projeto de programação, desenvolvido juntamente ao projeto programação do zero online do <a href="https://github.com/rodolfomori">Rodolfo Mori</a>, onde ele nos ensina sobre html, css e javascript finalizando assim com o site apresentado como resultado.
 <br>
 
 ##
 
 <h3>:triangular_flag_on_post: Ferramentas</h3>
 
-🛠️ O projeto foi desenvolvido com as seguintes linguagens: &emsp;&emsp;
+:small_blue_diamond: O projeto foi desenvolvido com as seguintes linguagens: &emsp;&emsp;
 <br><br>
 <img width="61" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img width="53" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
