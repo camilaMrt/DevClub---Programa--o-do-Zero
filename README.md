@@ -4,7 +4,7 @@
 <br>
 <h3>:triangular_flag_on_post: &ensp;Descrição do projeto</h3><br>
 
-:small_blue_diamond: &emsp;Esse foi meu primeiro projeto de programação,<br>&emsp;&emsp;desenvolvido juntamente ao projeto programação <br> do zero online do <a href="https://github.com/rodolfomori">Rodolfo Mori</a>, onde ele nos ensina <br> sobre html, css e javascript finalizando assim com o <br>site apresentado como resultado.
+:small_blue_diamond: &emsp;Esse foi meu primeiro projeto de programação,<br> desenvolvido juntamente ao projeto programação <br> do zero online do <a href="https://github.com/rodolfomori">Rodolfo Mori</a>, onde ele nos ensina <br> sobre html, css e javascript finalizando assim com o <br>site apresentado como resultado.
 <br><br><br><br>
 
 ##
