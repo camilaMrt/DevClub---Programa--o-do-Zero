@@ -1,10 +1,10 @@
-<img align="right" width="490px" src="https://raw.githubusercontent.com/camilaMrt/projeto-programacao-do-zero/68a021f364b625232a1f9e57e3a40440a593aac0/assets/projeto%20programa%C3%A7%C3%A3o%20do%20zero.gif">
+<img align="right" width="460px" src="https://raw.githubusercontent.com/camilaMrt/projeto-programacao-do-zero/68a021f364b625232a1f9e57e3a40440a593aac0/assets/projeto%20programa%C3%A7%C3%A3o%20do%20zero.gif">
 
 # Projeto Landing Page Contabilidade
 <br>
 <h3>:triangular_flag_on_post: &ensp;Descrição do projeto</h3><br>
 
-:small_blue_diamond: &emsp;Esse foi meu primeiro projeto de programação,<br>&emsp;&emsp;desenvolvido juntamente ao projeto programação <br> &emsp;&emsp;do zero online do <a href="https://github.com/rodolfomori">Rodolfo Mori</a>, onde ele nos ensina <br> &emsp;&emsp;sobre html, css e javascript finalizando assim com o <br>&emsp;&emsp;site apresentado como resultado.
+:small_blue_diamond: &emsp;Esse foi meu primeiro projeto de programação,<br>&emsp;&emsp;desenvolvido juntamente ao projeto programação <br> do zero online do <a href="https://github.com/rodolfomori">Rodolfo Mori</a>, onde ele nos ensina <br> sobre html, css e javascript finalizando assim com o <br>site apresentado como resultado.
 <br><br><br><br>
 
 ##
@@ -28,7 +28,7 @@
 
 :small_blue_diamond: &ensp;Em "Contato" existe a função de impedir que o usuário possa enviar o formulário sem ter preenchido devidamente os campos solicitados. 
 
-:small_blue_diamond: &ensp;Também foi adicionada a funcionalidade que permite que esse formulário seja de fato enviado para um email registrado, usando para isso &emsp;&ensp;&nbsp; o site <a href="https://formsubmit.co/?utm_source=formsubmit.co&utm_medium=site%20link&utm_campaign=submission%20page"><img  width="90px" align="center" src="https://formsubmit.co/image/logo.png"></a> .
+:small_blue_diamond: &ensp;Também foi adicionada a funcionalidade que permite que esse formulário seja de fato enviado para um email registrado, usando para isso o site <a href="https://formsubmit.co/?utm_source=formsubmit.co&utm_medium=site%20link&utm_campaign=submission%20page"><img  width="90px" align="center" src="https://formsubmit.co/image/logo.png"></a> .
 
 :small_blue_diamond: &ensp;Na marca fictícia da empresa "Dev Contábil" no cabeçalho da página, é possível clicar, assim atualizando a página.
 
