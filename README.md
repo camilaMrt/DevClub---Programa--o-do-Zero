@@ -1,6 +1,6 @@
-<img align="right" width="460px" src="https://raw.githubusercontent.com/camilaMrt/projeto-programacao-do-zero/68a021f364b625232a1f9e57e3a40440a593aac0/assets/projeto%20programa%C3%A7%C3%A3o%20do%20zero.gif">
 
-# Projeto Landing Page Contabilidade
+
+# Projeto Landing Page Contabilidade<img align="right" width="460px" src="https://raw.githubusercontent.com/camilaMrt/projeto-programacao-do-zero/68a021f364b625232a1f9e57e3a40440a593aac0/assets/projeto%20programa%C3%A7%C3%A3o%20do%20zero.gif">
 <br>
 <h3>:triangular_flag_on_post: &ensp;Descrição do projeto</h3><br>
 
