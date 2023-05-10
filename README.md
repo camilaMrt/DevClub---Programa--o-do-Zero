@@ -4,7 +4,7 @@
 <br>
 <h3>:triangular_flag_on_post: &ensp;Descrição do projeto</h3><br>
 
-:small_blue_diamond: &emsp;Esse foi meu primeiro projeto de programação,<br> desenvolvido juntamente ao projeto programação <br> do zero online do <a href="https://github.com/rodolfomori">Rodolfo Mori</a>, onde ele nos ensina <br> sobre html, css e javascript finalizando assim com o <br>site apresentado como resultado.
+:small_blue_diamond: &emsp;Esse foi meu primeiro projeto de programação, desenvolvido juntamente ao projeto programação  do zero online do <a href="https://github.com/rodolfomori">Rodolfo Mori</a>, onde ele nos ensina sobre html, css e javascript finalizando assim com o site apresentado como resultado.
 <br><br><br><br>
 
 ##
@@ -12,7 +12,7 @@
 <h3>:triangular_flag_on_post: &ensp;Ferramentas</h3><br>
 
 :small_blue_diamond: &ensp;O projeto foi desenvolvido com as seguintes linguagens: &emsp;&emsp;
-<br>
+<br><br>
 <img width="61" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
 <img width="53" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
 <img width="87" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
