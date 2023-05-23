@@ -6,7 +6,9 @@
 
 <div align="center">:small_blue_diamond: Esse foi meu primeiro projeto de programação, desenvolvido juntamente ao <br> projeto programação  do zero online do <a href="https://github.com/rodolfomori">Rodolfo Mori</a>, onde ele nos ensina sobre html, <br> css e javascript finalizando assim com o site apresentado como resultado.</div>
 
-<div align="center"><img align="center" width="460px" src="https://raw.githubusercontent.com/camilaMrt/projeto-programacao-do-zero/68a021f364b625232a1f9e57e3a40440a593aac0/assets/projeto%20programa%C3%A7%C3%A3o%20do%20zero.gif"></div>
+<br>
+
+<div align="center"><img align="center" width="460px" src="https://github.com/camilaMrt/projeto-programacao-do-zero/blob/main/assets/projeto%20programa%C3%A7%C3%A3o%20do%20zero.gif?raw=true"></div>
 
 ##
 
