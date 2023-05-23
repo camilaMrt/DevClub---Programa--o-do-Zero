@@ -1,11 +1,12 @@
 
 
-# Projeto Landing Page Contabilidade<img align="right" width="460px" src="https://raw.githubusercontent.com/camilaMrt/projeto-programacao-do-zero/68a021f364b625232a1f9e57e3a40440a593aac0/assets/projeto%20programa%C3%A7%C3%A3o%20do%20zero.gif">
-<br>
-<h3>:triangular_flag_on_post: &ensp;Descrição do projeto</h3><br>
+# <div align="center"> Projeto Landing Page Contabilidade </div>
 
-<div align="left">:small_blue_diamond: &emsp;Esse foi meu primeiro projeto de programação, desenvolvido juntamente ao projeto programação  do zero online do <a href="https://github.com/rodolfomori">Rodolfo Mori</a>, onde ele nos ensina sobre html, css e javascript finalizando assim com o site apresentado como resultado.</div>
-<br><br><br><br>
+<div align="center"><h3>:triangular_flag_on_post:Descrição do projeto</h3></div>
+
+<div align="center">:small_blue_diamond: Esse foi meu primeiro projeto de programação, desenvolvido juntamente ao <br> projeto programação  do zero online do <a href="https://github.com/rodolfomori">Rodolfo Mori</a>, onde ele nos ensina sobre html, <br> css e javascript finalizando assim com o site apresentado como resultado.</div>
+
+<div align="center"><img align="center" width="460px" src="https://raw.githubusercontent.com/camilaMrt/projeto-programacao-do-zero/68a021f364b625232a1f9e57e3a40440a593aac0/assets/projeto%20programa%C3%A7%C3%A3o%20do%20zero.gif"></div>
 
 ##
 
